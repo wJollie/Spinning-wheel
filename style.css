@@ -57,19 +57,19 @@ span{
 }
 .span2{
   clip-path: polygon(100% 92%, 0 50%, 100% 8%);
-  background-color: #ff4fa1;
+  background-color: #2E64FE;
   top: 120px;
   right: 0;
 }
 .span3{
   clip-path: polygon(50% 0%, 8% 100%, 92% 100%);
-  background-color: #ffaa00;
+  background-color: #FF0000;
   bottom: 0;
   left: 120px;
 }
 .span4{
   clip-path: polygon(50% 100%, 92% 0, 8% 0);
-  background-color: #22ff00;
+  background-color: #FE642E;
   top: 0;
   left: 120px;
 }
