@@ -55,24 +55,48 @@ span{
   top: 120px;
   left: 0;
 }
+.box2 .span1{
+  clip-path: polygon(0 92%, 100% 50%, 0 8%);
+  background-color: #9B4646;
+  top: 120px;
+  left: 0;
+  }
 .span2{
   clip-path: polygon(100% 92%, 0 50%, 100% 8%);
   background-color: #2E64FE;
   top: 120px;
   right: 0;
 }
+.box2 .span2{
+  clip-path: polygon(100% 92%, 0 50%, 100% 8%);
+  background-color: #7E83A9;
+  top: 120px;
+  right: 0;
+}
 .span3{
   clip-path: polygon(50% 0%, 8% 100%, 92% 100%);
-  background-color: #FF0000;
+  background-color: #00FC7E;
   bottom: 0;
+  left: 120px;
+}
+.box2 .span3{
+  clip-path: polygon(50% 0%, 8% 100%, 92% 100%);
+  background-color: #80E9FA;
+  bottom 0;
   left: 120px;
 }
 .span4{
   clip-path: polygon(50% 100%, 92% 0, 8% 0);
-  background-color: #FE642E;
+  background-color: #F400FC;
   top: 0;
   left: 120px;
 }
+.box2 .span4{
+  clip-path: polygon(50% 100%, 92% 0, 8% 0);
+  background-color: #44225E;
+  top: 0;
+  left: 120px;
+  }
 
 
 .box1 .span3 b{
