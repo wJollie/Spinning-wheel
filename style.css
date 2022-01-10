@@ -51,19 +51,37 @@ span{
 }
 .span1{
   clip-path: polygon(100% 19%, 61% 100%, 0 16%);
-  background-color: #fffb00;
+  background-color: #F7FE2E;
   top: 120px;
   left: -75;
 }
+.box2 .span1{
+  clip-path: polygon(100% 19%, 61% 100%, 0 16%);
+  background-color: #0B610B;
+  top: 120px;
+  left: -75;
+  }
 .span2{
-  clip-path: polygon(0 11%, 36% 100%, 100% 10%);
-  background-color: #2E64FE;
+  clip-path: polygon(0 13%, 35% 100%, 100% 0);
+  background-color: #DF7401;
+  top: 120px;
+  right: -75px;
+}
+.box2 .span2{
+  clip-path: polygon(0 9%, 34% 100%, 100% 7%);
+  background-color: #FA58D0;
   top: 120px;
   right: -75px;
 }
 .span3{
   clip-path: polygon(50% 0, 0% 100%, 100% 100%);
-  background-color: #00FC7E;
+  background-color: #0040FF;
+  bottom: 0;
+  left: 35px;
+}
+.box2 .span3{
+  clip-path: polygon(50% 0, 0% 100%, 100% 100%);
+  background-color: #7401DF;
   bottom: 0;
   left: 35px;
 }
