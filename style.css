@@ -8,13 +8,14 @@
 
 body{
   font-family: Open Sans;
-  display: flex;
+  display:flex ;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   overflow: hidden;
   background: url(Background.png);
   background-size: 1390px, 1390px;
+  background-position: 0% 20%;
   background-repeat: no-repeat;
 }
 
