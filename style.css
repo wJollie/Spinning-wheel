@@ -57,31 +57,31 @@ span{
 }
 .box2 .span1{
   clip-path: polygon(100% 19%, 61% 100%, 0 16%);
-  background-color: #68E019;
+  background-color: #FF009E;
   top: 120px;
   left: -75;
   }
 .span2{
   clip-path: polygon(0 13%, 35% 100%, 100% 0);
-  background-color: #FF9700;
+  background-color: #00AAFF;
   top: 120px;
   right: -75px;
 }
 .box2 .span2{
   clip-path: polygon(0 9%, 34% 100%, 100% 7%);
-  background-color: #FF009E;
+  background-color: #68E019;
   top: 120px;
   right: -75px;
 }
 .span3{
   clip-path: polygon(50% 0, 0% 100%, 100% 100%);
-  background-color: #00AAFF;
+  background-color: #9500FF;
   bottom: 0;
   left: 35px;
 }
 .box2 .span3{
   clip-path: polygon(50% 0, 0% 100%, 100% 100%);
-  background-color: #9500FF;
+  background-color:#FF9700;
   bottom: 0;
   left: 35px;
 }
